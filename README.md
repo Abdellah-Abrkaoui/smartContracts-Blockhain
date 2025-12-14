@@ -19,10 +19,6 @@ A full-stack decentralized application (DApp) built with **Solidity**, **Truffle
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Smart Contract](#smart-contract)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
